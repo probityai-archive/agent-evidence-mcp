@@ -1,3 +1,6 @@
+<!-- moved-to-monorepo -->
+> **Moved to [probityai/probity/packages/agent-evidence-mcp](https://github.com/probityai/probity/tree/main/packages/agent-evidence-mcp). Star and follow it there.** This repository is archived and has no planned delete date; its tags and releases keep working.
+
 # agent-evidence-mcp
 
 <!-- mcp-name: io.github.probityai/agent-evidence-mcp -->
